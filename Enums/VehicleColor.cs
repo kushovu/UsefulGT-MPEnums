@@ -1,5 +1,6 @@
-
-    public enum VehicleColors
+namespace Enums
+{
+    public enum VehicleColor
     {
         MetallicBlack = 0,
         MetallicGraphiteBlack = 1,
@@ -162,3 +163,4 @@
         PureGold = 158,
         BrushedGold = 159
     }
+}
