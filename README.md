@@ -1,2 +1,2 @@
 # UsefulGT-MPEnums
-a few useful gt-mp multiplayer enums
+A few useful gt-mp multiplayer enums
